@@ -1,8 +1,8 @@
 # climat-ville
-<!DOCTYPE html>
+
 <html>
 	<head>
-	  <charset="UTF-8">
+	  
 		  <style>
 
 			/*  .bloc{
@@ -48,4 +48,5 @@
 	 </div>
 	</div>
 	</body>
+	
 </html>
